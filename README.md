@@ -1,8 +1,6 @@
 # Welcome to Recipes
 
-:::info
-A curated collection of recipes
-:::
+```A curated collection of recipes```
 
 
 General questions or feedback? Contact [nobody@nowhere.com](mailto:nobody@nowhere.com).
